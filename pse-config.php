@@ -13,7 +13,6 @@ return [
     // Agregar/quitar claves internas aquí para activar o desactivar el bloqueo.
     'maintenance_banks' => [
         'jfk',
-    'falabella',
     ],
 
     // false = recaudofall apagado; todas las "otras entidades" muestran mantenimiento.
